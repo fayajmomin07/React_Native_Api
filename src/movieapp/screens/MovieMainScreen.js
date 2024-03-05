@@ -6,7 +6,7 @@ import TopRatedMovies from '../components/TopRatedMovies';
 import TrendingMovies from '../components/TrendingMovies';
 import ImageSlider from '../components/ImageSlider';
 
-
+ 
 const MovieMainScreen = () => {
   return (
     <ScrollView>

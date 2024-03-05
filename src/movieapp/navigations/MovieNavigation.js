@@ -6,8 +6,7 @@ import MovieMainScreen from '../screens/MovieMainScreen';
 import UpcomingDetails from '../screens/UpcomingDetails';
 import { StatusBar } from 'expo-status-bar';
 import { responsiveFontSize, responsiveHeight, responsiveWidth } from 'react-native-responsive-dimensions';
-import { FontAwesome } from '@expo/vector-icons';
-    
+     
 
     const Stack = createNativeStackNavigator();
 

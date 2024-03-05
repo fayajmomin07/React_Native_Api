@@ -36,7 +36,7 @@ const ImageSlider = () => {
 
     const renderUpcomingMovies = ({ item }) => {
         return (
-            <View>
+            <View> 
                 <TouchableOpacity 
                     onPress={() => navigateToDetail(item.id)}
                     style={styles.buttonContainer}
